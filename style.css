@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    text-transform: capitalize;
+    font-size: 3rem;
+}
+
+
+.thought {
+    text-align: center;
+    font-family: serif;
+    color: white;
+}
+
+.pic {
+    border: 5px solid white;
+    margin-left: 35%;
+    width: 30%;
+    size: 30px;
+}
+ #about{
+    color: aliceblue;
+ }
